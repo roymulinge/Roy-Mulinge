@@ -39,7 +39,7 @@ I enjoy working on products that solve real problems, and I'm currently deepenin
 
 ### Projects
 
-#### 🔹 [devtrack-app](https://github.com/roymulinge)
+#### 🔹 [devtrack-app](https://github.com/roymulinge/devtrack-app.git)
 > Devtrack is Web application that helps developers organize, connect and execute tasks faster by reducing time in planning, organizing and executing tasks
 
 Built with **Django REST Framework · React · PostgreSQL · JWT Auth**
